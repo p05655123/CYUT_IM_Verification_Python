@@ -1,0 +1,2 @@
+# CYUT_IM_Verification_Python
+朝陽科技大學資管系Python程式檢定
